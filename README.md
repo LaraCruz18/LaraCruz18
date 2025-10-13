@@ -29,42 +29,42 @@ Fique à vontade para explorar e comentar!
   <img 
       alt="JavaScript" 
       title="JavaScript"
-      width="30px" 
+      width="50px" 
       style="margin-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   <img 
       alt="Java"
       title="Java" 
-      width="30px" 
+      width="50px" 
       style="margin-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
   />
   <img 
       alt="Kotlin" 
       title="Kotlin"
-      width="30px" 
+      width="50px" 
       style="margin-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
   />
   <img 
       alt="Git" 
       title="Git"
-      width="30px" 
+      width="50px" 
       style="margin-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
   />
   <img 
       alt="Python" 
       title="Python"
-      width="30px" 
+      width="50px" 
       style="margin-right: 10px;" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
   <img 
       alt="Swift" 
       title="Swift"
-      width="30px" 
+      width="50px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" 
   />
 </div>
