@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Lara Cruz
+<h1 align="center">👩🏻‍💻 Lara Cruz</h1>
 
 Estudo Ciência da Computação e compartilho aqui meus aprendizados.
 Neste espaço, reúno projetos e repositórios para praticar.
@@ -25,63 +25,55 @@ Fique à vontade para explorar e comentar!
 ---
 ### 💻 Linguagens e Tecnologias que venho estudando:
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" 
-/>
-<br/>
-<br/>
+<div align="center">
+  <img 
+      alt="JavaScript" 
+      title="JavaScript"
+      width="30px" 
+      style="margin-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+  />
+  <img 
+      alt="Java"
+      title="Java" 
+      width="30px" 
+      style="margin-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+  />
+  <img 
+      alt="Kotlin" 
+      title="Kotlin"
+      width="30px" 
+      style="margin-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
+  />
+  <img 
+      alt="Git" 
+      title="Git"
+      width="30px" 
+      style="margin-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+  />
+  <img 
+      alt="Python" 
+      title="Python"
+      width="30px" 
+      style="margin-right: 10px;" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  />
+  <img 
+      alt="Swift" 
+      title="Swift"
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" 
+  />
+</div>
 
 ---
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCruz18&theme=dark&layout=compact&custom_title=Linguagens que mais uso:&langs_count=9" 
-/>
+<p align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="300" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCruz18&theme=tokyonight&layout=compact&custom_title=&langs_count=9" 
+  />
+</p>
