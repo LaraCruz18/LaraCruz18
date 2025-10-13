@@ -1,8 +1,8 @@
-<h1 align="center">👩🏻‍💻 Lara Cruz</h1>
-
-Estudo Ciência da Computação e compartilho aqui meus aprendizados.
-Neste espaço, reúno projetos e repositórios para praticar.
-Fique à vontade para explorar e comentar!
+<h3 align="center">
+  Sou estudante de Ciência da Computação e compartilho aqui meus aprendizados.<br>
+  Neste espaço, reúno projetos e repositórios para praticar.
+  Fique à vontade para explorar e comentar!
+</h3>
 
 ---
 <p align="center">
@@ -23,7 +23,9 @@ Fique à vontade para explorar e comentar!
 </p>
 
 ---
-### 💻 Linguagens e Tecnologias que venho estudando:
+<h3 align="left">
+  Linguagens que estou aprendendo:
+</h3>
 
 <div align="center">
   <img 
