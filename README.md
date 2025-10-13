@@ -1,8 +1,8 @@
-<h1 align="center">
+<h2 align="center">
   Sou estudante de Ciência da Computação e compartilho aqui meus aprendizados.<br>
   Neste espaço, reúno projetos e repositórios para praticar.
   Fique à vontade para explorar e comentar!
-</h1>
+</h2>
 
 ---
 <p align="center">
@@ -23,9 +23,9 @@
 </p>
 
 ---
-<h1 align="left">
+<h2 align="left">
   Linguagens que estou aprendendo:
-</h1>
+</h2>
 
 <div align="center">
   <img 
