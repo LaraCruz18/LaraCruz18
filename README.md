@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <a href="https://br.linkedin.com/?mcid=6821526239111716925&src=go-pa&trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9197548&cid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=12619604099&gbraid=0AAAAABhL5JOYP6BQAswNUcBvAIgBivV-8&gclid=EAIaIQobChMI992v2fGhkAMVC0BIAB1fpQW0EAAYASAAEgJvGfD_BwE" target="_blank">
+  <a href="[https://br.linkedin.com/?mcid=6821526239111716925&src=go-pa&trk=sem-ga_campid.12619604099_asid.149519181115_crid.725790844702_kw.linkedin_d.c_tid.kwd-148086543_n.g_mt.e_geo.9197548&cid=&gclsrc=aw.ds&gad_source=1&gad_campaignid=12619604099&gbraid=0AAAAABhL5JOYP6BQAswNUcBvAIgBivV-8&gclid=EAIaIQobChMI992v2fGhkAMVC0BIAB1fpQW0EAAYASAAEgJvGfD_BwE" target="_blank](https://www.linkedin.com/in/lara-cruz-1a144738a/)">
     <img 
       alt="Linkedin" 
       title="Acesse meu Linkedin" 
