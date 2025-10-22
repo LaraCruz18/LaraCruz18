@@ -75,7 +75,7 @@
 <p align="center">
   <img 
     alt="GitHub Stats" 
-    height="300" 
+    height="600" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaraCruz18&theme=tokyonight&layout=compact&custom_title=&langs_count=9" 
   />
 </p>
