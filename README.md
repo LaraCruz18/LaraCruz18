@@ -1,7 +1,7 @@
 <h3 align="center">
   Sou estudante de Ciência da Computação e compartilho aqui meus aprendizados.<br>
   Neste espaço, reúno projetos e repositórios para praticar.
-  Fique à vontade para explorar e comentar!
+  Fique à vontade para explorar.
 </h3>
 
 ---
