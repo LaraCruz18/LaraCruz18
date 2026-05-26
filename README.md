@@ -50,13 +50,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" 
   />
   <img 
-      alt="Git" 
-      title="Git"
-      width="50px" 
-      style="margin-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />
-  <img 
       alt="Python" 
       title="Python"
       width="50px" 
